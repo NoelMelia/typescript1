@@ -1,0 +1,1 @@
+'# typeecho "# typescript1" 
